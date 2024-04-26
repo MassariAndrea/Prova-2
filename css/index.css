@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+.merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  
+  .button:hover, .button:link, .button:active, .button:visited{
+    color: white;
+    text-decoration: none;
+    display: block;
+    background: #240202;
+    font-size: 35px;
+    padding: 14px 33px;
+    line-height: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 15px;
+  }
+  
+  
+  
+  .hero{
+    padding-top: 130px;
+    padding-bottom: 120px;
+  }
+  
+  .hero.variant-one{
+    background-color: #CEFBFF;
+  }
+  
+  .first{
+      color: #707070;
+      font-size: 90px;
+      font-family: "Merriweather", serif;
+      font-weight: 400;
+      font-style: normal;
+      margin-top: 70px;
+  }
+  
+  .second{
+      color: #707070;
+      font-size: 35px;
+      font-family: "Courier Prime", monospace;
+      font-style: normal;
+      text-align: left;
+      margin-top: 20px;
+  }
+  
+  
+  .back{
+      background-color: #CEFBFF;
+  }
+  
+  .lista1-2-3-4{
+      list-style: none;
+  }
+  
+  .ListaNumeric{
+      font-size: 70px;
+      color: #707070;
+      margin-top: 60px;
+  }
+  
+  .TestoUguale{
+      text-align: left;
+
+      color: #707070;
+
+      font-size: 22px;
+  }
+  
+  .RedDetail{
+      color:red;
+      text-align: auto;
+  
+  }
+  
+  .Finalback{
+      background-color: #ECCEFF;
+      margin-top: 100px;
+      padding-top: 130px;
+      
+  }
+  
+  .Credit{
+      margin-top: 20px;
+      margin-bottom: 60px;
+      text-align: top;
+  }
+  
+  .svgArrow{
+      padding-left: 12px;
+      padding-bottom: 2px;
+      color:white;
+
+  }
